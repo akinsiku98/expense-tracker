@@ -1,0 +1,7 @@
+target/
+spring-boot-devtools-*.jar
+
+*.iml
+.idea/
+*.log
+.DS_Store
